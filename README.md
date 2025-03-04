@@ -1,17 +1,7 @@
 
 ### Hi, I'm Akshitha Reddy 👋
 
-#### Aspiring Cybersecurity Professional | BTech in Computer Science
-
-I'm a Computer Science and Engineering student with a strong foundation in **defensive security** and a keen interest in **offensive cybersecurity** techniques like penetration testing and ethical hacking. I enjoy solving complex problems, building secure systems, and continuously learning new technologies.
-
----
-
-### 🛡️ **My Focus Areas**:
-- **Defensive Security**: I have experience in building systems that ensure data integrity and safety.
-- **Offensive Security**: Currently exploring ethical hacking and penetration testing to understand how to break systems before attackers do.
-
----
+#### Aspiring Data Engineer | MS in Computer Science
 
 ### 🔧 **Skills**:
 - **Programming Languages**: Java, Python, C, JavaScript
