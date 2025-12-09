@@ -30,9 +30,8 @@
 
 ---
 
-### 📫 **How to reach me**:
-- **Email**: akshithanelavetla@gmail.com
-- **LinkedIn**: [Akshitha Reddy LinkedIn](#)
+
+- 
 
 ---
 
