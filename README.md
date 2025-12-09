@@ -1,7 +1,6 @@
 
-### Hi, I'm Akshitha Reddy 👋
+### Hi, I'm Akshitha 👋
 
-#### Aspiring Data Engineer | MS in Computer Science
 
 ### 🔧 **Skills**:
 - **Programming Languages**: Java, Python, C, JavaScript
